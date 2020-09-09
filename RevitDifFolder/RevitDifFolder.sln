@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitDifFolder", "RevitDifFolder\RevitDifFolder.csproj", "{54C50D49-6142-4BE2-8F8E-46013EA4F77A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1RevitDifFolder", "1RevitDifFolder\1RevitDifFolder.csproj", "{120EEF54-EADE-4B6A-A8E9-0BF4C98CADB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54C50D49-6142-4BE2-8F8E-46013EA4F77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C50D49-6142-4BE2-8F8E-46013EA4F77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C50D49-6142-4BE2-8F8E-46013EA4F77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C50D49-6142-4BE2-8F8E-46013EA4F77A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120EEF54-EADE-4B6A-A8E9-0BF4C98CADB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120EEF54-EADE-4B6A-A8E9-0BF4C98CADB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120EEF54-EADE-4B6A-A8E9-0BF4C98CADB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120EEF54-EADE-4B6A-A8E9-0BF4C98CADB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFE0640B-E1BB-4620-8D52-1D59930F129A}
+	EndGlobalSection
+EndGlobal
