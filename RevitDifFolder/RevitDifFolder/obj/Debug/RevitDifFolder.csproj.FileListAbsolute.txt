@@ -1,0 +1,5 @@
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\RevitDifFolder\bin\Debug\RevitDifFolder.dll
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\RevitDifFolder\bin\Debug\RevitDifFolder.pdb
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\RevitDifFolder\obj\Debug\RevitDifFolder.csproj.CoreCompileInputs.cache
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\RevitDifFolder\obj\Debug\RevitDifFolder.dll
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\RevitDifFolder\obj\Debug\RevitDifFolder.pdb

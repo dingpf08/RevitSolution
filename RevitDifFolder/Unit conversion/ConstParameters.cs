@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-namespace RevitDifFolder
+//Revit 英尺和米的换算
+namespace Unit_conversion
 {
-    public class Class1
+    class ConstParameters
     {
+        static decimal F2M = 0.3048m;
     }
 }
