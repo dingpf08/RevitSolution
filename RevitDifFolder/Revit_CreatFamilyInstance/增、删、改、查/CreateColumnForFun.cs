@@ -66,7 +66,7 @@ namespace Revit_CreatFamilyInstance.增_删_改_查
                     for (int j = 0; j < xyzlist.Count; j++)
                     {
                         Line line = Line.CreateBound(xyzlist[j],new XYZ(xyzlist[j].X, xyzlist[j].Y,10));
-                        ElementTransformUtils.RotateElement(doc,familyInstance[j].Id,line,Math.PI/6);
+                        ElementTransformUtils.RotateElement(doc,familyInstance[j].Id,line,Math.PI/6);//旋转对象的方法
                     }
                     transRotate.Commit();
                     System.Windows.Forms.Application.DoEvents();

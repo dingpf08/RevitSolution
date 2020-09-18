@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revit_CreatFamilyInstance",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit conversion", "Unit conversion\Unit conversion.csproj", "{AF6C257D-9687-414A-96B4-F9B44BCBCAFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revit_RibbonUI", "Revit_RibbonUI\Revit_RibbonUI.csproj", "{350A7DD9-81E9-4342-A316-AB3BB66028D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revit_WPF", "Revit_WPF\Revit_WPF.csproj", "{D4D7818B-1CD1-4E1A-B4E1-2E8C21C171A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{AF6C257D-9687-414A-96B4-F9B44BCBCAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF6C257D-9687-414A-96B4-F9B44BCBCAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF6C257D-9687-414A-96B4-F9B44BCBCAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350A7DD9-81E9-4342-A316-AB3BB66028D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350A7DD9-81E9-4342-A316-AB3BB66028D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350A7DD9-81E9-4342-A316-AB3BB66028D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350A7DD9-81E9-4342-A316-AB3BB66028D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D7818B-1CD1-4E1A-B4E1-2E8C21C171A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D7818B-1CD1-4E1A-B4E1-2E8C21C171A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D7818B-1CD1-4E1A-B4E1-2E8C21C171A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D7818B-1CD1-4E1A-B4E1-2E8C21C171A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
