@@ -1,0 +1,13 @@
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.exe
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.deps.json
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.runtimeconfig.json
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.runtimeconfig.dev.json
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.dll
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.pdb
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.AssemblyInfoInputs.cache
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.AssemblyInfo.cs
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.csproj.CoreCompileInputs.cache
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.dll
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.pdb
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.genruntimeconfig.cache
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.csprojAssemblyReference.cache

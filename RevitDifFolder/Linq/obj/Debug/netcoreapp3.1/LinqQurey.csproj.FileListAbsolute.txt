@@ -1,0 +1,13 @@
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Linq\bin\Debug\netcoreapp3.1\LinqQurey.exe
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Linq\bin\Debug\netcoreapp3.1\LinqQurey.deps.json
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Linq\bin\Debug\netcoreapp3.1\LinqQurey.runtimeconfig.json
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Linq\bin\Debug\netcoreapp3.1\LinqQurey.runtimeconfig.dev.json
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Linq\bin\Debug\netcoreapp3.1\LinqQurey.dll
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Linq\bin\Debug\netcoreapp3.1\LinqQurey.pdb
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Linq\obj\Debug\netcoreapp3.1\LinqQurey.csprojAssemblyReference.cache
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Linq\obj\Debug\netcoreapp3.1\LinqQurey.AssemblyInfoInputs.cache
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Linq\obj\Debug\netcoreapp3.1\LinqQurey.AssemblyInfo.cs
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Linq\obj\Debug\netcoreapp3.1\LinqQurey.csproj.CoreCompileInputs.cache
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Linq\obj\Debug\netcoreapp3.1\LinqQurey.dll
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Linq\obj\Debug\netcoreapp3.1\LinqQurey.pdb
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Linq\obj\Debug\netcoreapp3.1\LinqQurey.genruntimeconfig.cache

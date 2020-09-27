@@ -10,20 +10,21 @@ using System.Threading.Tasks;
 namespace Revit_WPF
 {
     [Transaction(TransactionMode.Manual)]//对类有作用，放在类的前面
-    public class CreatWall : IExternalCommand
+    public class CreatWallInWPF : IExternalCommand
     {
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
-            //获取当前文档
-            UIDocument uidoc = commandData.Application.ActiveUIDocument;
-            Document doc = uidoc.Document;
+//             //获取当前文档
+//             UIDocument uidoc = commandData.Application.ActiveUIDocument;
+//             Document doc = uidoc.Document;
             MainWindow mainWindow = new MainWindow();
             //“非模态对话框”
-           // mainWindow.Show();
+            mainWindow.Show();
             //打开“模态对话框”
-            mainWindow.ShowDialog();
+            //mainWindow.ShowDialog();
 
             //获取CW 102-50-100p类型的墙体
+            /*
             FilteredElementCollector collector = new FilteredElementCollector(doc);
             Element ele = collector.OfCategory(BuiltInCategory.OST_Walls).OfClass(typeof(WallType))
                 .FirstOrDefault(e => e.Name == "CW 102-50-100p");
@@ -35,7 +36,15 @@ namespace Revit_WPF
             XYZ end = new XYZ(10, 10, 0);
             XYZ ptOnArc = new XYZ(10, 0, 0);
             Line geonline = Line.CreateBound(start, end);
-            Arc geoArc = Arc.Create(start, end, ptOnArc);
+
+            
+            double startAngle = 0;
+            double endAngle = 3.1415926;
+            double radius =Convert.ToDouble(mainWindow.m_R.Text);//wpf给程序传值，通过自定义属性
+            XYZ normal= new XYZ(0, 0, 1);
+            XYZ origin= new XYZ(0, 0, 0);
+            Plane plane = Plane.CreateByNormalAndOrigin(normal,origin);
+            Arc geoArc = Arc.Create(plane, radius, startAngle, endAngle); ;
             //创建墙体的高度和偏移量
             double height = 15 / 0.3048;//英尺换算
             double offset = 0;
@@ -48,7 +57,7 @@ namespace Revit_WPF
             Wall arcwall = Wall.Create(doc, geoArc, walltype.Id, level.Id, height, offset, false, false);//如果创建错了，会返回错误的东西，好像就是事务没有提交一样
                                                                                                          //弧形墙
             trans.Commit();
-
+            */
             return Result.Succeeded;
         }
     }

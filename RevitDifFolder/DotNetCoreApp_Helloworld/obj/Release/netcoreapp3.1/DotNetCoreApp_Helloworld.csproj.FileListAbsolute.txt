@@ -1,0 +1,12 @@
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DotNetCoreApp_Helloworld\bin\Release\netcoreapp3.1\DotNetCoreApp_Helloworld.exe
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DotNetCoreApp_Helloworld\bin\Release\netcoreapp3.1\DotNetCoreApp_Helloworld.deps.json
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DotNetCoreApp_Helloworld\bin\Release\netcoreapp3.1\DotNetCoreApp_Helloworld.runtimeconfig.json
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DotNetCoreApp_Helloworld\bin\Release\netcoreapp3.1\DotNetCoreApp_Helloworld.runtimeconfig.dev.json
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DotNetCoreApp_Helloworld\bin\Release\netcoreapp3.1\DotNetCoreApp_Helloworld.dll
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DotNetCoreApp_Helloworld\bin\Release\netcoreapp3.1\DotNetCoreApp_Helloworld.pdb
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DotNetCoreApp_Helloworld\obj\Release\netcoreapp3.1\DotNetCoreApp_Helloworld.AssemblyInfoInputs.cache
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DotNetCoreApp_Helloworld\obj\Release\netcoreapp3.1\DotNetCoreApp_Helloworld.AssemblyInfo.cs
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DotNetCoreApp_Helloworld\obj\Release\netcoreapp3.1\DotNetCoreApp_Helloworld.csproj.CoreCompileInputs.cache
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DotNetCoreApp_Helloworld\obj\Release\netcoreapp3.1\DotNetCoreApp_Helloworld.dll
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DotNetCoreApp_Helloworld\obj\Release\netcoreapp3.1\DotNetCoreApp_Helloworld.pdb
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\DotNetCoreApp_Helloworld\obj\Release\netcoreapp3.1\DotNetCoreApp_Helloworld.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sgKxQk4bfjow25OIBZ3ISZ3dvzMpvx5iJCIsFjbZWpnYh9AUYR2xKHFgKoX2Kx4r8FzKJljAjXWSodZnpMmo7A==",
+  "success": true,
+  "projectFilePath": "E:\\工作单位\\中铁建工工作资料\\装配式建筑技术研发中心\\我的工作\\Revit二次开发\\Revit二次开发项目\\RevitDifFolder\\StringLibrary\\StringLibrary_DotNetStandardLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\86151\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\86151\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

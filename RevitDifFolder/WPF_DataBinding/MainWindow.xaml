@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPF_DataBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_DataBinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox  HorizontalAlignment="Left" Height="23" Margin="178,39,0,0"  TextWrapping="Wrap" Name="Add1"  VerticalAlignment="Top" Width="120" Text="{Binding Add1}"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="181,86,0,0" TextWrapping="Wrap" Name="Add2"  VerticalAlignment="Top" Width="120" Text="{Binding Add2}"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="178,146,0,0" TextWrapping="Wrap"  Name="Sum"  VerticalAlignment="Top" Width="120" Text="{Binding Sum}" />
+        <Label Content="Add1" HorizontalAlignment="Left" Margin="117,36,0,0" VerticalAlignment="Top"/>
+        <Label Content="Add2" HorizontalAlignment="Left" Margin="120,86,0,0" VerticalAlignment="Top"/>
+        <Button Content="Sum=Add1+Add2" HorizontalAlignment="Left" Margin="45,146,0,0" VerticalAlignment="Top" Width="116" Click="Button_Click"/>
+        <Button Content="Save" Name="Save" HorizontalAlignment="Left" Margin="43,10,0,0" VerticalAlignment="Top" Width="720" Click="Save_Dlg"/>
+        <Slider Name="s1" HorizontalAlignment="Left" Margin="461,43,0,0" VerticalAlignment="Top" Width="236"/>
+        <Slider Name="s2" HorizontalAlignment="Left" Margin="461,86,0,0" VerticalAlignment="Top" Width="236"/>
+        <Slider Name="ss" HorizontalAlignment="Left" Margin="181,223,0,0" VerticalAlignment="Top" Width="516"/>
+        <Button Content="SliderSum" HorizontalAlignment="Left" Margin="92,223,0,0" VerticalAlignment="Top" Width="66" Click="Slider_Click"/>
+
+    </Grid>
+</Window>

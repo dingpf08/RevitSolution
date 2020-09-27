@@ -5,11 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Revit_WPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Revit_Event" Height="500" Width="800">
     <Grid>
-        <Button Content="DingPf08" HorizontalAlignment="Left" Margin="460,132,0,0" VerticalAlignment="Top" Width="220" Height="113" Click="Button_Click"/>
+        <Button Content="WaHaHa" HorizontalAlignment="Left" Margin="460,132,0,0" VerticalAlignment="Top" Width="220" Height="113" Click="Button_Click"/>
         <Label Content="创建墙&#xD;&#xA;" HorizontalAlignment="Left" Margin="112,162,0,0" VerticalAlignment="Top"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="190,166,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="m_R" HorizontalAlignment="Left" Height="23" Margin="190,166,0,0" TextWrapping="Wrap" Text="50" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
 </Window>
