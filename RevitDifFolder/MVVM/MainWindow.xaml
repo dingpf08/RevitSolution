@@ -9,9 +9,9 @@
     <Grid>
         <Slider HorizontalAlignment="Left" Margin="342,97,0,0" VerticalAlignment="Top" Width="120" Value="{Binding Add1}"/>
         <Slider HorizontalAlignment="Left" Margin="342,155,0,0" VerticalAlignment="Top" Width="120" Value="{Binding Add2}"/>
-        <Slider HorizontalAlignment="Left" Margin="342,217,0,0" VerticalAlignment="Top" Width="120" Value="{Binding Sum}"/>
+        <TextBox HorizontalAlignment="Left" Margin="342,200,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Text="{Binding Sum}"/>
         <Button  x:Name="Sum" Content="Sum"  HorizontalAlignment="Left"     Command="{Binding AddCommand}" Margin="223,163,0,0" VerticalAlignment="Top"  />
-     
+
 
     </Grid>
 </Window>

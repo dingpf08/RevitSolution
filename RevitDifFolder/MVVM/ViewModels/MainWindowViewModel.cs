@@ -16,7 +16,7 @@ namespace MVVM.ViewModels
             set
             {
                 add1 = value;
-                this.RaisePropertyChanged("Add1");
+                this.RaisePropertyChange("Add1");//对Add1进行监听
             }
         }
         private double add2;
@@ -26,7 +26,7 @@ namespace MVVM.ViewModels
             set
             {
                 add2 = value;
-                this.RaisePropertyChanged("Add2");
+                this.RaisePropertyChange("Add2");//对Add2进行监听
             }
         }
 
@@ -37,7 +37,7 @@ namespace MVVM.ViewModels
             set
             {
                 sum = value;
-                this.RaisePropertyChanged("Sum");
+                this.RaisePropertyChange("Sum");//对Sum进行监听
             }
         }
 

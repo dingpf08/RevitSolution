@@ -9,7 +9,7 @@ namespace MVVM.ViewModels
     class NotificationObject : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged;
-        public void RaisePropertyChanged(string proertyName)
+        public void RaisePropertyChange(string proertyName)
         {
             if (this.PropertyChanged!=null)
             {

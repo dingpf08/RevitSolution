@@ -2,3 +2,12 @@ E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我�
 E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\LambdaExp\obj\Debug\netcoreapp3.1\LambdaExp.AssemblyInfoInputs.cache
 E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\LambdaExp\obj\Debug\netcoreapp3.1\LambdaExp.AssemblyInfo.cs
 E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\LambdaExp\obj\Debug\netcoreapp3.1\LambdaExp.csproj.CoreCompileInputs.cache
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\LambdaExp\bin\Debug\netcoreapp3.1\LambdaExp.exe
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\LambdaExp\bin\Debug\netcoreapp3.1\LambdaExp.deps.json
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\LambdaExp\bin\Debug\netcoreapp3.1\LambdaExp.runtimeconfig.json
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\LambdaExp\bin\Debug\netcoreapp3.1\LambdaExp.runtimeconfig.dev.json
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\LambdaExp\bin\Debug\netcoreapp3.1\LambdaExp.dll
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\LambdaExp\bin\Debug\netcoreapp3.1\LambdaExp.pdb
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\LambdaExp\obj\Debug\netcoreapp3.1\LambdaExp.dll
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\LambdaExp\obj\Debug\netcoreapp3.1\LambdaExp.pdb
+E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\LambdaExp\obj\Debug\netcoreapp3.1\LambdaExp.genruntimeconfig.cache
