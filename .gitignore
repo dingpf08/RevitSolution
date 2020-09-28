@@ -3,3 +3,5 @@
 ################################################################################
 
 /RevitDifFolder/Revit_WPF/ViewModel/NotificationObject.cs
+/RevitDifFolder/Revit_WPF/ViewModel/MainWindowViewModel.cs
+/RevitDifFolder/Revit_WPF/ViewModel/DelegateCommand.cs
