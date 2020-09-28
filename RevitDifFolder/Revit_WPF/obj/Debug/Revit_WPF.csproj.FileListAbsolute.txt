@@ -10,4 +10,3 @@ E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我�
 E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Revit_WPF\obj\Debug\Revit_WPF.pdb
 E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Revit_WPF\bin\Debug\Revit_WPF.dll
 E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Revit_WPF\obj\Debug\Revit_WPF.dll
-E:\工作单位\中铁建工工作资料\装配式建筑技术研发中心\我的工作\Revit二次开发\Revit二次开发项目\RevitDifFolder\Revit_WPF\obj\Debug\Revit_WPF.csprojAssemblyReference.cache

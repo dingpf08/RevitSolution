@@ -15,8 +15,8 @@ namespace Revit_WPF
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
 //             //获取当前文档
-//             UIDocument uidoc = commandData.Application.ActiveUIDocument;
-//             Document doc = uidoc.Document;
+            UIDocument uidoc = commandData.Application.ActiveUIDocument;
+             Document doc = uidoc.Document;
             MainWindow mainWindow = new MainWindow();
             //“非模态对话框”
             mainWindow.Show();
@@ -24,7 +24,7 @@ namespace Revit_WPF
             //mainWindow.ShowDialog();
 
             //获取CW 102-50-100p类型的墙体
-            /*
+            
             FilteredElementCollector collector = new FilteredElementCollector(doc);
             Element ele = collector.OfCategory(BuiltInCategory.OST_Walls).OfClass(typeof(WallType))
                 .FirstOrDefault(e => e.Name == "CW 102-50-100p");
@@ -54,10 +54,8 @@ namespace Revit_WPF
             //直线墙
             // Wall wall = Wall.Create(doc, geonline, walltype.Id,level.Id,height,offset,false,false);//如果创建错了，会返回错误的东西，好像就是事务没有提交一样
             //弧形墙
-            Wall arcwall = Wall.Create(doc, geoArc, walltype.Id, level.Id, height, offset, false, false);//如果创建错了，会返回错误的东西，好像就是事务没有提交一样
-                                                                                                         //弧形墙
+            Wall arcwall = Wall.Create(doc, geoArc, walltype.Id, level.Id, height, offset, false, false);//如果创建错了，会返回错误的东西，好像就是事务没有提交一样                                                                                                       //弧形墙
             trans.Commit();
-            */
             return Result.Succeeded;
         }
     }

@@ -45,13 +45,16 @@ namespace Revit_WPF
             if (IsFirstClick==false)
             {
                 createExeWallCommand.m_Dradius = Convert.ToDouble(this.m_R.Text);//控件值给命令
+                createExeWallCommand.m_Dradius += 20;
                 IsFirstClick = true;
             }
             else
             {
                 createExeWallCommand.m_Dradius += 20;
-               
+           
+            
             }
+            this.m_R.Text = Convert.ToString(createExeWallCommand.m_Dradius);
             createWallEvent.Raise();
         }
 

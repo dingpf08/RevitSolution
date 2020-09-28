@@ -37,6 +37,7 @@ namespace Revit_WPF
             double endAngle = 3.1415926;
             //double radius = Convert.ToDouble(mainWindow.m_radius.Text);//wpf给程序传值，通过自定义属性
 
+            //
             double radius = m_Dradius;//wpf给程序传值，通过自定义属性
             XYZ normal = new XYZ(0, 0, 1);
             XYZ origin = new XYZ(0, 0, 0);
@@ -56,7 +57,7 @@ namespace Revit_WPF
             trans.Commit();
         }
 
-        public string GetName()
+        public string GetName()//返回类名
         {
             return "CreatExternalWall";
         }
